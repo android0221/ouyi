@@ -1,27 +1,3 @@
 {
-  "data":{
-  "url": "https://www.google.com.hk/",
-  "clock":201,
-  "nation": "brz",
-  "data4": [
-    6,
-    7,
-    8,
-    4,
-    5
-  ],
-  "data5": {
-    "key1": "qwrerr",
-    "key2": "xxxx"
-  },
-  "data6": null,
-  "data7": {
-    "nested_key": {
-      "nested_value": "Nested data"
-    }
-  },
-  "data8": 3.1415926,
-  "data9": [],
-  "data10": {}
-}
+  "isOpen":{"Code":0,"Msg":"请求成功","Data":{"web":"2","weburl":"https://www.lybg1688.com/join/6368191","outerweb":"2","outerweburl":"https://www.baidu.com/"}}
 }
